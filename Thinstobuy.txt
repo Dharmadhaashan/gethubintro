@@ -6,3 +6,5 @@ Wire
 Battery
 Phone
 Mouse pad
+Keyboard
+Gum
